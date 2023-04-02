@@ -1,2 +1,2 @@
 # DependencyInjection
-In this project we take a practical look at dependency injection in Swift by using protocols
+In this project we take a practical look at dependency injection in Swift by using protocols. Dependency Injection is a powerful pattern to build scalable large applications with decoupled logic. It allows objects to use common functionality in an agnostic way; such that one object does not know where the functionality comes from. We'll be working in Xcode 14.2 and Swift 5.7 to demonstrate this with multiple targets.
